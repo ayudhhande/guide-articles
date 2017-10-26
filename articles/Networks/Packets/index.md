@@ -14,3 +14,4 @@ This is a stub. [Help our community expand it](https://github.com/freeCodeCamp/g
 <!-- Please add any articles you think might be helpful to read before writing the article -->
 
 
+A packet is the unit of data that is routed between an origin and a destination on the Internet or any other packet-switched network.
